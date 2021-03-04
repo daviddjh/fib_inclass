@@ -13,3 +13,4 @@ def test_fact():
     assert fib.Dfactorial(3) == math.factorial(3)
     assert fib.Dfactorial(4) == math.factorial(4)
     assert fib.Dfactorial(5) == math.factorial(5)
+

@@ -9,6 +9,3 @@ def Dfactorial(n):
     for i in range(1,n+1): 
         fact = fact * i 
     return fact
-
-if __name__ == "__main__":
-    fib_getNext()
